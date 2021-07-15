@@ -53,7 +53,7 @@ meteor --settings settings.json
 
 ### Run via docker-compose
 ```sh
-METEOR_SETTINGS=$(cat settings.json) docker-compose up
+meteor npm install --save
 ```
 
 ### Run in production
